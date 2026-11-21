@@ -1,0 +1,56 @@
+{
+  "varianteId": "A-hogar-envio-gratis",
+  "hook": {
+    "etiquetaSuperior": "PINTURERÍA EN CÓRDOBA CAPITAL",
+    "linea1": "¿VAS A PINTAR",
+    "linea2": "TU CASA O TECHO?",
+    "palabraDestacada": "NO CARGUES BALDES",
+    "subtitulo": "Te llevamos todo sin cargo a tu puerta"
+  },
+  "catalogo": {
+    "titulo": "TODO PARA TU PROYECTO",
+    "categorias": ["LÁTEX", "MEMBRANAS", "RODILLOS"],
+    "marcas": "SHERWIN-WILLIAMS · ALBA · PLAVICON · VENIER · QUIMEXUR"
+  },
+  "beneficios": [
+    {
+      "titulo": "ENVÍO GRATIS EN CÓRDOBA CAPITAL",
+      "detalle": "Recibí tus baldes de 20L y 25kg en tu domicilio"
+    },
+    {
+      "titulo": "ASESORAMIENTO PARA HOGAR Y OBRA",
+      "detalle": "Te ayudamos a elegir el producto y rendimiento justo"
+    },
+    {
+      "titulo": "STOCK PERMANENTE EN CÓRDOBA",
+      "detalle": "Primeras marcas listas para retirar o despachar hoy"
+    }
+  ],
+  "precio": {
+    "mostrar": false,
+    "etiqueta": "¡PROMO DESTACADA!",
+    "valor": "CONSULTÁ PRECIO HOY",
+    "aclaracion": ""
+  },
+  "cta": {
+    "titular": "COTIZÁ EN 1 MINUTO POR WHATSAPP",
+    "boton": "ESCRIBINOS POR WHATSAPP",
+    "whatsapp": "+54 9 351 000-0000",
+    "direccion": "Córdoba Capital, Argentina",
+    "horario": "8 a 18 hs",
+    "instagram": "@pintaplop"
+  },
+  "medios": {
+    "clipFondoOpcional": "",
+    "musicaActiva": true,
+    "volumenMusica": 0.28
+  },
+  "marca": {
+    "naranja": "#F59B0F",
+    "negro": "#000000",
+    "azulMarino": "#000645",
+    "fondoClaro": "#F9F7F4",
+    "coralOferta": "#EF8F61"
+  },
+  "mostrarZonaSegura": false
+}

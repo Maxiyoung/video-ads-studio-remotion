@@ -1,0 +1,56 @@
+{
+  "varianteId": "B-profesionales-obra",
+  "hook": {
+    "etiquetaSuperior": "HOGAR Y PROFESIONALES · CÓRDOBA",
+    "linea1": "¿NECESITÁS PINTURA",
+    "linea2": "CON ENTREGA RÁPIDA?",
+    "palabraDestacada": "RESUELTO EN 1 MINUTO",
+    "subtitulo": "Látex, membranas y rodillos de primeras marcas"
+  },
+  "catalogo": {
+    "titulo": "CALIDAD QUE RINDE EN OBRA",
+    "categorias": ["LÁTEX 20L", "MEMBRANAS 20KG", "RODILLOS PRO"],
+    "marcas": "SHERWIN-WILLIAMS · ALBA · PLAVICON · VENIER · QUIMEXUR"
+  },
+  "beneficios": [
+    {
+      "titulo": "ATENCIÓN DIRECTA A PINTORES Y OBRAS",
+      "detalle": "Presupuestos rápidos por WhatsApp sin vueltas"
+    },
+    {
+      "titulo": "ENVÍO GRATIS EN CÓRDOBA CAPITAL",
+      "detalle": "Llevamos tus baldes directo a tu casa u obra"
+    },
+    {
+      "titulo": "PRIMERAS MARCAS EN UN SOLO LUGAR",
+      "detalle": "Látex, impermeabilizantes, rodillos y accesorios"
+    }
+  ],
+  "precio": {
+    "mostrar": true,
+    "etiqueta": "BENEFICIO DESTACADO",
+    "valor": "ENVÍO GRATIS EN CBA",
+    "aclaracion": "Pedí tu presupuesto por WhatsApp"
+  },
+  "cta": {
+    "titular": "PEDÍ TU PRESUPUESTO AHORA",
+    "boton": "COTIZÁ POR WHATSAPP",
+    "whatsapp": "+54 9 351 000-0000",
+    "direccion": "Córdoba Capital, Argentina",
+    "horario": "8 a 18 hs",
+    "instagram": "@pintaplop"
+  },
+  "medios": {
+    "clipFondoOpcional": "",
+    "musicaActiva": true,
+    "volumenMusica": 0.28
+  },
+  "marca": {
+    "naranja": "#F59B0F",
+    "negro": "#000000",
+    "azulMarino": "#000645",
+    "fondoClaro": "#F9F7F4",
+    "coralOferta": "#EF8F61"
+  },
+  "mostrarZonaSegura": false
+}

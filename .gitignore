@@ -1,0 +1,28 @@
+# Dependencies & build
+node_modules/
+.remotion/
+dist/
+build/
+out/
+
+# Raw clips and rendered video outputs
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.wav
+public/raw/*
+!public/raw/.gitkeep
+public/assets/clips/
+
+# Environment & logs
+.env
+.env.*
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

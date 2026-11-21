@@ -1,0 +1,59 @@
+{
+  "varianteId": "venier-supercapa-tormentas-demo",
+  "hook": {
+    "etiquetaAlerta": "ÉPOCA DE LLUVIAS Y TORMENTAS",
+    "linea1": "¿TU TECHO AGUANTA",
+    "linea2": "LA PRÓXIMA TORMENTA?",
+    "impactoGotera": "NO ESPERES LA GOTERA",
+    "bajadaImpacto": "Impermeabilizá hoy antes de que se largue a llover"
+  },
+  "producto": {
+    "marcaProducto": "VENIER",
+    "nombreProducto": "SUPERCAPA",
+    "presentacion": "MEMBRANA POLIURETÁNICA PARA TECHOS · 20 KG",
+    "badges": ["SÚPER ELÁSTICA", "TRANSITABLE", "SOL Y LLUVIA"],
+    "fraseClima": "Escudo impermeable preparado para tormentas fuertes en Córdoba"
+  },
+  "beneficios": [
+    {
+      "titulo": "FRENA FILTRACIONES Y HUMEDAD",
+      "detalle": "Máxima adherencia sobre losa, chapa, membrana y tejas"
+    },
+    {
+      "titulo": "SÚPER ELÁSTICA Y TRANSITABLE",
+      "detalle": "Base acuosa con alta resistencia al sol y lluvias intensas"
+    },
+    {
+      "titulo": "ENVÍO GRATIS EN CÓRDOBA CAPITAL",
+      "detalle": "Te llevamos el balde de 20 kg directo a tu casa u obra"
+    }
+  ],
+  "precio": {
+    "mostrar": false,
+    "etiqueta": "PROMO CONFIGURABLE",
+    "valor": "CONSULTÁ HOY",
+    "aclaracion": ""
+  },
+  "cta": {
+    "titular": "BLINDÁ TU TECHO ANTES DE LA LLUVIA",
+    "boton": "PEDILA POR WHATSAPP",
+    "whatsapp": "+54 9 351 000-0000",
+    "direccion": "Córdoba Capital, Argentina",
+    "horario": "8 a 18 hs",
+    "instagram": "@pintaplop"
+  },
+  "efectos": {
+    "intensidadLluvia": 0.85,
+    "relampagosActivos": true,
+    "musicaActiva": true,
+    "volumenMusica": 0.3
+  },
+  "marca": {
+    "naranja": "#F59B0F",
+    "negro": "#000000",
+    "azulMarino": "#000645",
+    "fondoClaro": "#F9F7F4",
+    "coralOferta": "#EF8F61"
+  },
+  "mostrarZonaSegura": false
+}
